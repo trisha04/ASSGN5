@@ -1,0 +1,13 @@
+Cluster and Hadoop Cluster
+Group of simimlar things positioned close to each other is known as a cluster
+On the other hand,hadoop cluster is a specail type of computational cluster specifically designed for storing and also 
+analysing huge amounts of data.
+But here the data are unstructured.
+It boosts the speed of data analysis aplications.
+But they are highly resistant to failure as each piece of the data is carried into other cluster nodes
+
+
+Rack and explain the rack arrangement in a hadoop cluster
+The Hadoop cluster of more than 30-40 nodes are configured into multiple racks.
+The communication between two data nodes of the same rack is more efficient than that betwwn two nodes of differerent racks.
+The rack arrangement is depicted in the attached file.
